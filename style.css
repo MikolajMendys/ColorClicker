@@ -1,0 +1,405 @@
+body
+{
+background: black;
+}
+
+#pojemnik
+{
+	margin: 0 auto;
+	width: 800px;
+	height: auto;
+	background: grey;
+}
+
+#nazwa
+{
+	margin-top: 10px;
+	width: 794px;
+	height: 30px;
+	border: 3px solid black;
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+#pasek
+{
+	border: 3px solid black;
+	border-top-color: grey;
+	margin: 0 auto;
+	width: 700px;
+	height: 50px;
+	background: grey;
+}
+
+#start
+{
+	background-color: #888888;
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 4px;
+	cursor: pointer;
+	float: left;
+	margin-left: 20px;
+	height: auto;
+	width: auto;
+	border: 2px solid black;
+}
+
+#punktacja
+{
+	margin: 0 auto;
+	height: 40px;
+	width: 200;
+}
+
+#punkty
+{
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 2px;
+	margin-left: 3px;
+	float: left;
+	height: 15px;
+	width: auto;
+	
+}
+#punkty1
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 2px;
+	margin-right: 3px;
+	margin-left: 10px;
+	float: left;
+	height: 30px;
+	width: auto;
+}
+
+#czas
+{
+	color: green;
+	float: right;
+	margin-right: 20px;
+	height: 40px;
+	width: 90px;
+	border: 2px solid black;
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	
+}
+
+#gra
+{
+	margin-top: 55;
+	height: 60%;
+	width: 100%;
+	color: black;
+	font-size: 40px;
+}
+
+#rzad1
+{
+	width: 480px;
+	height: auto;
+	margin: 0 auto;
+}
+
+#rzad2
+{
+	width: 480px;
+	height: auto;
+	margin: 0 auto;
+}
+
+#rzad3
+{
+	width: 480px;
+	height: auto;
+	margin: 0 auto;
+}
+
+
+#kolor1
+{
+	background: brown;
+	height: 150px;
+	width: 150px;
+	font-size: 20px;
+	color: black;
+	float: left;
+	margin: 5px;
+}
+
+#kolor1:hover
+{
+	margin: 0px;
+	border: 5px solid white;
+	cursor: pointer;
+}
+
+#kolor2
+{
+	background: white;
+	height: 150px;
+	width: 150px;
+	font-size: 20px;
+	color: black;
+    float: left;
+	margin: 5px;
+}
+
+#kolor2:hover
+{
+	margin: 0px;
+	border: 5px solid white;
+	cursor: pointer;
+}
+
+#kolor3
+{
+	background: purple;
+	height: 150px;
+	width: 150px;
+	font-size: 20px;
+	color: black;
+	float: left;
+	margin: 5px;
+}
+
+#kolor3:hover
+{
+	margin: 0px;
+	border: 5px solid white;
+	cursor: pointer;
+}
+
+#kolor4
+{
+	background: pink;
+	height: 150px;
+	width: 150px;
+	font-size: 20px;
+	color: black;
+	float: left;
+	margin: 5px;
+}
+
+#kolor4:hover
+{
+	margin: 0px;
+	border: 5px solid white;
+	cursor: pointer;
+}
+
+#kolor5
+{
+	background: yellow;
+	height: 150px;
+	width: 150px;
+	font-size: 20px;
+	color: black;
+	float: left;
+	margin: 5px;
+}
+
+#kolor5:hover
+{
+	margin: 0px;
+	border: 5px solid white;
+	cursor: pointer;
+}
+
+#kolor6
+{
+	background: blue;
+	height: 150px;
+	width: 150px;
+	font-size: 20px;
+	color: black;
+	float: left;
+	margin: 5px;
+}
+
+#kolor6:hover
+{
+	margin: 0px;
+	border: 5px solid white;
+	cursor: pointer;
+}
+
+#kolor7
+{
+	background: orange;
+	height: 150px;
+	width: 150px;
+	font-size: 20px;
+	color: black;
+	float: left;
+	margin: 5px;
+}
+
+#kolor7:hover
+{
+	margin: 0px;
+	border: 5px solid white;
+	cursor: pointer;
+}
+
+#kolor8
+{
+	background: green;
+	height: 150px;
+	width: 150px;
+	font-size: 20px;
+	color: black;
+	float: left;
+	margin: 5px;
+}
+
+#kolor8:hover
+{
+	margin: 0px;
+	border: 5px solid white;
+	cursor: pointer;
+}
+
+#kolor9
+{
+	background: red;
+	height: 150px;
+	width: 150px;
+	font-size: 20px;
+	color: black;
+	float: left;
+	margin: 5px;
+}
+
+#kolor9:hover
+{
+	margin: 0px;
+	border: 5px solid white;
+	cursor: pointer;
+}
+
+#uklad
+{
+	text-align: center;
+	margin: 0 auto;
+	width: 576px;
+	height: 65px;
+	font-size: 15px;
+	color: black;
+}
+
+#uklad1
+{
+	margin: 2px;
+	border: 5px solid grey;
+	background: grey;
+	height: 50px;
+	width: 50px;
+	font-size: 0px;
+	color: black;
+	float : left;
+}
+
+#uklad2
+{
+	margin: 2px;
+	border: 5px solid grey;
+	background: grey;
+	height: 50px;
+	width: 50px;
+	font-size: 0px;
+	color: black;
+	float : left;
+}
+
+#uklad3
+{
+	margin: 2px;
+	border: 5px solid grey;
+	background: grey;
+	height: 50px;
+	width: 50px;
+	font-size: 0px;
+	color: black;
+	float: left;
+}
+
+#uklad4
+{
+	margin: 2px;
+	border: 5px solid grey;
+	background: grey;
+	height: 50px;
+	width: 50px;
+	font-size: 0px;
+	color: black;
+	float: left;
+}
+
+#uklad5
+{
+	margin: 2px;
+	border: 5px solid grey;
+	background: grey;
+	height: 50px;
+	width: 50px;
+	font-size: 0px;
+	color: black;
+	float: left;
+}
+
+#uklad6
+{
+	margin: 2px;
+	border: 5px solid grey;
+	background: grey;
+	height: 50px;
+	width: 50px;
+	font-size: 0px;
+	color: black;
+	float: left;
+}
+
+#uklad7
+{
+	margin: 2px;
+	border: 5px solid grey;
+	background: grey;
+	height: 50px;
+	width: 50px;
+	font-size: 0px;
+	color: black;
+	float: left;
+}
+
+#uklad8
+{
+	margin: 2px;
+	border: 5px solid grey;
+	background: grey;
+	height: 50px;
+	width: 50px;
+	font-size: 0px;
+	color: black;
+	float: left;
+}
+
+#uklad9
+{
+	margin: 2px;
+	border: 5px solid grey;
+	background: grey;
+	height: 50px;
+	width: 50px;
+	font-size: 0px;
+	color: black;
+	float: left;
+}
+
+
